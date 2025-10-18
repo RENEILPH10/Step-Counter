@@ -3,9 +3,9 @@
 Author: Lhoreneil I. Jose
 
 ## Overview
-This is a standalone Step Counter and Speedometer desktop application built with PyQt5.
+This is a standalone(For simulation only) Step Counter and Speedometer desktop application built with PyQt5.
 It simulates small GPS movements (walking pace) and uses the Haversine formula to compute distance.
-The application shows real-time Speed, Distance (km), and Steps (estimated) and allows saving sessions to an SQLite database.
+The application shows timer, Distance (km), and Steps (estimated) and allows saving sessions to an SQLite database.
 
 ## Files
 - `main.py` : Main GUI and application logic.
