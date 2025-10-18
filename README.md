@@ -24,3 +24,4 @@ pip install -r requirements.txt
 python main.py
 ```
 The app auto-starts tracking with simulated GPS movement. Use the buttons to Stop/Start/Reset and Save records.
+
